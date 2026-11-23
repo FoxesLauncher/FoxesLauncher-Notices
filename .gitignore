@@ -1,0 +1,5 @@
+# Local release tooling output and credentials
+.env
+.env.local
+out/
+secrets/
